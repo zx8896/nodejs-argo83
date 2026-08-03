@@ -1,5 +1,4 @@
 # nodejs-argo83
-自用
 <div align="center">
   <h2>
     <img src="https://cdn.nodeimage.com/i/NXz3ah3zTwikq3AdQOU0dYw3uyaBiGVj.webp" width="40" height="40" style="vertical-align: middle;"/> 
